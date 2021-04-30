@@ -1,0 +1,9 @@
+This project was developed for the university course LAP (Linguagens e Ambientes de Programação).
+
+" Genealogical repositories are data structures that register relationships between several generations of individuals.
+
+Those repositories can be used to register historical information about human families and communities, but also as a genetic tool for the development of breeds of animals and plants.
+
+Here, we restrict ourselves to biological sexual reproduction, ignoring other aspects like, for example, adoption.
+
+The aim of this project is to write a closed OCaml module named "Genealogy" containing a data representations for genealogical information."
